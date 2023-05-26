@@ -1,3 +1,4 @@
 # data_science_stepik
 
-Решенныее задачи с курса Введение в Data Science и машинное обучение на Stepik
+Решенные задачи с курса Введение в Data Science и машинное обучение на Stepik
+part1- предобработка данных (Pandas, numpy, seaborn, plotly)
